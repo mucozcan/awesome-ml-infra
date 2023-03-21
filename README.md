@@ -12,7 +12,14 @@
 ## Data Versioning
 - [Data Versioning: Why do Data Science projects need it?](https://medium.com/@thanakornpanyapiang/data-versioning-why-do-data-science-projects-need-it-a44cb7a471c9)
 - [Data Versioning with DVC](https://medium.com/@thanakornpanyapiang/data-versioning-with-dvc-a474af1247f5)
+- [The DVC Guide: Data Version Control For All Your Data Science Projects](https://towardsdatascience.com/the-dvc-guide-data-version-control-for-all-your-data-science-projects-382d5b5aab00)
 
 ## Workflow Automation
 - [3 Reasons why you should automate your Machine Learning workflow](https://medium.com/@thanakornpanyapiang/3-reasons-why-you-should-automate-your-machine-learning-workflow-9b59b4a0aa6)
 - [Automating ML Workflow using DVC](https://medium.com/geekculture/automating-ml-workflow-using-dvc-a649efd43e30)
+
+## Experiment Tracking
+- [Experiment Tracking with MLflow in 10 Minutes](https://towardsdatascience.com/experiment-tracking-with-mlflow-in-10-minutes-f7c2128b8f2c)
+
+## Deployment
+- [A friendly introduction to machine learning compilers and optimizers](https://huyenchip.com/2021/09/07/a-friendly-introduction-to-machine-learning-compilers-and-optimizers.html)
